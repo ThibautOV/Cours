@@ -1,0 +1,25 @@
+body {
+    background-color: bisque;
+}
+
+.h1 {
+    font-size: 60;
+    text-align: center;
+    color: black;
+    
+    
+}
+#jeux {
+    font-size: 20px;
+    color: darkblue;
+    font-style: italic;
+}
+.button {
+    font-size: 15px;
+    font-style: italic;
+    color: red;
+}
+.img {
+    width: 70px;
+    height: 60px;
+}
